@@ -1,11 +1,3 @@
----
-title: 【腾讯】记录一面（IMWeb团队）
-description: 腾讯前端实习面试总结与复盘
-publishedAt: '2020-05-26'
-lastUpdated: '2022-09-18'
-tags: 'interview'
----
-
 微信云托管 Java Springboot 框架模版，实现简单的计数器读写接口，使用云托管 MySQL 读写、记录计数值。
 
 ![](https://qcloudimg.tencent-cloud.cn/raw/be22992d297d1b9a1a5365e606276781.png)
